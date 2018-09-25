@@ -1,0 +1,7 @@
+F:\JAVA\C#\ExceptionsPracties\ExceptionsPracties\bin\Debug\ExceptionsPracties.exe.config
+F:\JAVA\C#\ExceptionsPracties\ExceptionsPracties\bin\Debug\ExceptionsPracties.exe
+F:\JAVA\C#\ExceptionsPracties\ExceptionsPracties\bin\Debug\ExceptionsPracties.pdb
+F:\JAVA\C#\ExceptionsPracties\ExceptionsPracties\obj\Debug\ExceptionsPracties.csproj.CoreCompileInputs.cache
+F:\JAVA\C#\ExceptionsPracties\ExceptionsPracties\obj\Debug\ExceptionsPracties.exe
+F:\JAVA\C#\ExceptionsPracties\ExceptionsPracties\obj\Debug\ExceptionsPracties.pdb
+F:\JAVA\C#\ExceptionsPracties\ExceptionsPracties\obj\Debug\ExceptionsPracties.csprojAssemblyReference.cache
